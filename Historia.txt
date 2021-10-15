@@ -2,6 +2,8 @@ Esta es la historia de freddy
 
 test 1
 
+test 2
+
 pro 1
 
 pro 2
