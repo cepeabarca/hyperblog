@@ -2,6 +2,8 @@ Esta es la historia de freddy
 
 pro 1
 
+pro 2
+
 Tengo 36 y naci en mexico
 
 en camara parece bajo.
